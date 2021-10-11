@@ -1,5 +1,5 @@
 # Hi there 👋 and welcome to my personal Github page.
-My name is Tom and I have bachelors degree in computer science. For a living write software at a company that develops software for several branches of the Dutch and Belgian law enforcement agencies. Very intresting stuff!
+My name is Tom and I have bachelors degree in computer science. For a living, I write software at a company that develops applications for several branches of the Dutch and Belgian law enforcement agencies. Very intresting stuff!
 
 
 Several repositories you can find here are somewhat, old... Let's say not really maintained often. 
