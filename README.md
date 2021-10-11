@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 and welcome to my personal Github page; 
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
