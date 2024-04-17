@@ -5,7 +5,7 @@ My name is Tom and I have bachelors degree in computer science. For a living, I 
 Several repositories you can find here are somewhat, old... Let's say not really maintained often. 
 Mostly some hobby projects reside here. I am starting to use GitHub a bit more lateley and felt the need to write this amazing readme file!
 
-# Hacktoberfest 202~~2~~3 registration is a fact: 
+# Holopin 
 [![@fazer01's Holopin board](https://holopin.io/api/user/board?user=fazer01)](https://holopin.io/@fazer01)
 
 # 😂 Here is a random joke that'll make you laugh!
