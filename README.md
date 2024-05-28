@@ -11,7 +11,7 @@ Mostly some hobby projects reside here. I am starting to use GitHub a bit more l
 # 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-# Somehwat low numbers here:
+# Somewhat low numbers here:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Fazer01&show_icons=true)
 
 # Language usage throughout my repository; 
